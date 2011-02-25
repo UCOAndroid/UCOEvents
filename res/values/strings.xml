@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="about">About</string>
+	<string name="app_name">UCO Events</string>
+
+
+	<string name="developers">Developers:</string>
+	<string name="person1">Robert Harden-Notifications, About, Icons, Facebook</string>
+	<string name="person2">Ronnie Gainer-Lists,Events, Facebook</string>
+	<string name="person3">Aaron Paper-Lists(but mainly Unreal Tornament 3),
+		not Facebook</string>
+	<string name="person4">Danielle Perlingiere-Tabs, the Idea, Icons,
+		Facebook</string>
+	<string name="person5">Tranesha White-Data Modeling, About, Facebook</string>
+
+	<string name="person6">Teacher Assistant, Tech Dude and Question Answerer
+		- Chris Thomas</string>
+
+	<string name="person7">Group Doctor =D - Dr. F U</string>
+	<string name="main_no_items">no items</string>
+</resources>
