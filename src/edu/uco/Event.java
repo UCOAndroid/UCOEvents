@@ -14,7 +14,7 @@ public class Event {
 	private String location;
 	
 	
-	
+//whatever	
 	
 	public String getEventtitle() {
 		return eventtitle;
